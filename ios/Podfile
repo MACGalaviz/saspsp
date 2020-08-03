@@ -44,8 +44,8 @@ def flipper_post_install(installer)
   end
 end
 
-target 'saspsp' do
-  # Pods for saspsp
+target 'reactnativewr' do
+  # Pods for reactnativewr
   pod 'FBLazyVector', :path => "../node_modules/react-native/Libraries/FBLazyVector"
   pod 'FBReactNativeSpec', :path => "../node_modules/react-native/Libraries/FBReactNativeSpec"
   pod 'RCTRequired', :path => "../node_modules/react-native/Libraries/RCTRequired"
@@ -77,7 +77,7 @@ target 'saspsp' do
   pod 'glog', :podspec => '../node_modules/react-native/third-party-podspecs/glog.podspec'
   pod 'Folly', :podspec => '../node_modules/react-native/third-party-podspecs/Folly.podspec'
 
-  target 'saspspTests' do
+  target 'reactnativewrTests' do
     inherit! :complete
     # Pods for testing
   end
@@ -94,10 +94,10 @@ target 'saspsp' do
   end
 end
 
-target 'saspsp-tvOS' do
-  # Pods for saspsp-tvOS
+target 'reactnativewr-tvOS' do
+  # Pods for reactnativewr-tvOS
 
-  target 'saspsp-tvOSTests' do
+  target 'reactnativewr-tvOSTests' do
     inherit! :search_paths
     # Pods for testing
   end

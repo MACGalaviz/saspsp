@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-               BuildableName = "saspsp.app"
-               BlueprintName = "saspsp"
-               ReferencedContainer = "container:saspsp.xcodeproj">
+               BuildableName = "reactnativewr.app"
+               BlueprintName = "reactnativewr"
+               ReferencedContainer = "container:reactnativewr.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "00E356ED1AD99517003FC87E"
-               BuildableName = "saspspTests.xctest"
-               BlueprintName = "saspspTests"
-               ReferencedContainer = "container:saspsp.xcodeproj">
+               BuildableName = "reactnativewrTests.xctest"
+               BlueprintName = "reactnativewrTests"
+               ReferencedContainer = "container:reactnativewr.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -55,9 +55,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "saspsp.app"
-            BlueprintName = "saspsp"
-            ReferencedContainer = "container:saspsp.xcodeproj">
+            BuildableName = "reactnativewr.app"
+            BlueprintName = "reactnativewr"
+            ReferencedContainer = "container:reactnativewr.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -72,9 +72,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "13B07F861A680F5B00A75B9A"
-            BuildableName = "saspsp.app"
-            BlueprintName = "saspsp"
-            ReferencedContainer = "container:saspsp.xcodeproj">
+            BuildableName = "reactnativewr.app"
+            BlueprintName = "reactnativewr"
+            ReferencedContainer = "container:reactnativewr.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

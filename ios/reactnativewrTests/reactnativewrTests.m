@@ -7,11 +7,11 @@
 #define TIMEOUT_SECONDS 600
 #define TEXT_TO_LOOK_FOR @"Welcome to React"
 
-@interface saspspTests : XCTestCase
+@interface reactnativewrTests : XCTestCase
 
 @end
 
-@implementation saspspTests
+@implementation reactnativewrTests
 
 - (BOOL)findSubviewInView:(UIView *)view matching:(BOOL(^)(UIView *view))test
 {
